@@ -51,7 +51,7 @@
 ### 🌐 Connect with Me
 
 - **Portfolio**: [www.iesus-dev.com](https://www.iesus-dev.com/)
-- **LinkedIn**: [jesus-davila-373aa2248](https://www.linkedin.com/in/jesus-davila-373aa2248/)
+- **LinkedIn**: [jesus-davila-373aa2248](https://www.linkedin.com/in/jesus-davila-sanchez-373aa2248/)
 - **GitHub**: [jesusds603](https://github.com/jesusds603)
 - **Email**: [jesusds603@gmail.com](mailto:jesusds603@gmail.com)
 
