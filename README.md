@@ -1,71 +1,91 @@
 # Jesús Dávila Sánchez
 
-## Pure Mathematician | Android Developer | Web Developer | Data Enthusiast
+## Mathematician | Data Scientist | Software Developer
 
-👋 Hi there! I'm Jesús Dávila Sánchez, a passionate mathematician and software developer with a strong interest in Android development, web development, and data analysis. I enjoy solving complex problems and creating innovative solutions through code and mathematical thinking.
+👋 Hi there! I'm Jesús Dávila Sánchez, a mathematician specialized in data science and software development. I combine solid mathematical foundations with practical programming skills to solve complex problems across web, mobile, and data analysis domains. Passionate about creating innovative solutions through logical-mathematical thinking and modern technologies.
 
-### 🚀 Projects
+---
+
+### 🚀 Featured Projects
 
 #### **Android Application Developer** (2025 - Present)
-- **Description**: Designed and developed a notes, habits, tasks, and finance management app using Kotlin, Jetpack Compose, and Android Studio.
+- **Description**: Designed and developed a comprehensive management application for notes, habits, tasks, and personal finance using Kotlin and Jetpack Compose.
 - **Technologies**: Kotlin, Jetpack Compose, MVVM Architecture, Room Database.
-- **Demo**: Check out the demo video on [LinkedIn](https://www.linkedin.com/posts/jesus-davila-sanchez-373aa2248_kotlin-android-jetpackcompose-activity-7297846443564847106-g--z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1isYcB7q9heswMEArak95WHxM4ORPjTgg).
+- **Demo**: [Watch demo video on LinkedIn](https://www.linkedin.com/posts/jesus-davila-sanchez-373aa2248_kotlin-android-jetpackcompose-activity-7297846443564847106-g--z)
 
 #### **Personal Portfolio Website** ([iesus-dev.com](https://www.iesus-dev.com/))
-- **Description**: A personal portfolio showcasing my projects, including interactive 3D animations, JavaScript games, and mathematical visualizations.
-- **Technologies**: React.js, Next.js, Three.js, JavaScript, CSS.
+- **Description**: Interactive portfolio showcasing mathematical visualizations, 3D simulations, and JavaScript games. Demonstrates the intersection of mathematics and web development.
+- **Technologies**: React.js, Next.js, Three.js, JavaScript, CSS
 - **Features**:
-  - Interactive 3D simulations (e.g., free-fall motion calculator).
-  - JavaScript games (Snake, Tower of Hanoi, airplane game).
-  - Mathematical visualizations (prime number distributions, Collatz sequence).
+  - Interactive 3D physics simulations (free-fall motion calculator)
+  - Classic JavaScript games (Snake, Tower of Hanoi, airplane game)
+  - Mathematical visualizations (prime number distributions, Collatz sequence)
 
 #### **Machine Learning Algorithm Developer** (2023)
-- **Description**: Collaborated in the development of an AI algorithm to diagnose population needs for data-driven public policies at CGEDPP, State Government of Aguascalientes.
-- **Technologies**: Python, Data Analysis, Machine Learning.
+- **Description**: Collaborated in developing AI algorithms for population needs assessment at CGEDPP, State Government of Aguascalientes. Applied statistical analysis and regression models for evidence-based public policy formulation.
+- **Technologies**: Python, pandas, numpy, scikit-learn, Statistical Modeling
+- **Context**: Participated in CIDE's public policy clinic applying quantitative methods
 
-### 🛠️ Skills
+#### **Mathematics Olympiad Instructor** (2017 - 2020)
+- **Description**: Prepared students for national mathematics competitions at FCFM-BUAP. Developed problem-solving techniques and educational materials.
+- **Achievements**: Trained students for state stages of OMM (Mexican Mathematics Olympiad) and OMMEB
 
-- **Web Development**: HTML, CSS, JavaScript, Node.js, React, Next.js, Three.js.
-- **Programming**: Python (numpy, pandas, sklearn), Kotlin, SQL, Docker.
-- **Data Analysis**: Data visualization, database management (SQL, Excel, JSON, PySpark).
-- **Mathematics**: Advanced mathematics (abstract algebra, calculus, analysis, differential equations, linear programming).
-- **Other**: Linux, React Native, Microeconomics, Econometrics.
+---
+
+### 🛠️ Technical Skills
+
+| Category | Technologies |
+|----------|-------------|
+| **Mathematics** | Probability, Mathematical Analysis, Linear Algebra, Numerical Methods, Differential Equations, Optimization |
+| **Programming Languages** | Python, R, SQL, JavaScript, Kotlin, C |
+| **Data Science & ML** | pandas, numpy, scikit-learn, PySpark, Regression Analysis, Statistical Modeling |
+| **Numerical Methods** | Newton-Raphson, Matrix Operations, Root-Finding, Optimization Algorithms |
+| **Web Development** | React, Next.js, Three.js, Node.js, HTML/CSS |
+| **Mobile Development** | Android Studio, Jetpack Compose, Kotlin |
+| **Tools & Technologies** | Docker, Git, Linux, Excel, Jupyter Notebooks, LaTeX |
+
+---
 
 ### 🎓 Education
 
-- **Master's in Methods for Public Policy Analysis** (2 semesters)  
-  *Centro de Investigación y Docencia Económicas (CIDE)*, Aguascalientes (2023 - 2024).
+- **Master's in Methods for Public Policy Analysis** (2023 - 2024)  
+  *Centro de Investigación y Docencia Económicas (CIDE)*, Aguascalientes
 
-- **Bachelor's in Mathematics**  
-  *Benemérita Universidad Autónoma de Puebla (BUAP)*, Puebla (2016 - 2022).
+- **Bachelor's in Mathematics** (2016 - 2022)  
+  *Benemérita Universidad Autónoma de Puebla (BUAP)*, Puebla  
+  *Relevant coursework: Probability, Real Analysis, Differential Equations, Linear Algebra, Numerical Methods*
 
-### 🏆 Achievements
+---
 
-- **Mathematics Competitions**:
-  - Bronze medalist in the National Mathematics Olympiad for Secondary Schools (2014).
-  - Honorable mention (5th place) in the Pierre Fermat National Contest (2014).
-  - State finalist in the Mexican Mathematics Olympiad (2012-2015).
+### 🏆 Achievements & Awards
 
-- **Coaching**: Prepared students for state stages of OMM and OMMEB at FCFM-BUAP (2017-2020).
+- **Bronze Medal** — National Mathematics Olympiad for Secondary Schools (2014)
+- **Honorable Mention (5th place)** — Pierre Fermat National Contest (2014)
+- **State Finalist** — Mexican Mathematics Olympiad (2012-2015)
+- **Certified Instructor** — Mathematics Olympiads, FCFM-BUAP (2017-2020)
 
-### 🌐 Connect with Me
+---
+
+### 🌐 Languages
+
+- **Spanish**: Native
+- **English**: B2 (Upper Intermediate)
+
+---
+
+### 🔍 Professional Interests
+
+Data Science | Quantitative Finance | Risk Modeling | Software Development | Web & Mobile Development | Mathematical Modeling | Public Policy | Artificial Intelligence | Education
+
+---
+
+### 📫 Connect with Me
 
 - **Portfolio**: [www.iesus-dev.com](https://www.iesus-dev.com/)
 - **LinkedIn**: [jesus-davila-373aa2248](https://www.linkedin.com/in/jesus-davila-sanchez-373aa2248/)
 - **GitHub**: [jesusds603](https://github.com/jesusds603)
-- **Email**: [jesusds603@gmail.com](mailto:jesusds603@gmail.com)
-
-### 🔍 Interests
-
-- Mathematics
-- Android Development
-- Public Policy
-- Web Development
-- Data Analysis
-- Blockchain
-- Automation
-- Programming
+- **Email**: [jesusds7299@gmail.com](mailto:jesusds7299@gmail.com)
 
 ---
 
-Feel free to explore my projects and reach out if you'd like to collaborate or discuss ideas! 😊
+⭐ *Feel free to explore my repositories and reach out if you'd like to collaborate on interesting projects or discuss ideas!*
